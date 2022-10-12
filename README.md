@@ -18,4 +18,4 @@
 - **命令行工具**：通过这些工具，可以自动执行重复性任务，然后将你的工具分发到大型Node.js生态系统。cURL（即客户端URL）是命令行工具的一个示例，用于从InternetURL下载内容。cURL常用于安装Node.js等工具（在本例中为Node.js版本管理器）。
 - **硬件编程**：虽然不如Web应用常用，但Node.js也越来越多地被用于IoT领域，例如从传感器、信标、发射机、发动机或其他会生成大量数据的装置收集数据。Node.js可支持数据收集、数据分析、设备和服务器之间的通信往来以及基于分析的措施实施。NPM包含80多个包，用于Arduino控制器、Raspberry Pi、Intel IoT Edison、各种传感器和蓝牙设备。
 
-* [乘风破浪，遇见JavaScript 框架之NodeJS，开源且跨平台的服务器端JavaScript运行时环境，WSL和Windows环境安装并部署到Azure初体验](https://www.cnblogs.com/taylorshi/p/16785633.html)
+* [乘风破浪，遇见JavaScript框架之NodeJS，开源且跨平台的服务器端JavaScript运行时环境，WSL和Windows环境安装并部署到Azure初体验](https://www.cnblogs.com/taylorshi/p/16785633.html)
